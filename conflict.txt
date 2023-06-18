@@ -1,4 +1,8 @@
 Hit me up buddy
 
+conflict2
 
 Waiting for conflict from branch2
+
+Pushing changes from branch1
+ mergeconflict/june16
